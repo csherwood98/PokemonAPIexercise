@@ -1,0 +1,15 @@
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\PokemonAPI.exe
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\PokemonAPI.deps.json
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\PokemonAPI.runtimeconfig.json
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\PokemonAPI.runtimeconfig.dev.json
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\PokemonAPI.dll
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\PokemonAPI.pdb
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.csprojAssemblyReference.cache
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.AssemblyInfoInputs.cache
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.AssemblyInfo.cs
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.csproj.CopyComplete
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.dll
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.pdb
+C:\Users\Workspace\Desktop\repos\PokemonAPI\PokemonAPI\obj\Debug\netcoreapp3.1\PokemonAPI.genruntimeconfig.cache
